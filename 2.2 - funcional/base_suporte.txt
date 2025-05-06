@@ -1,0 +1,106 @@
+pergunta: Como resetar minha senha?
+resposta: Entre em contato com o suporte nos canais de atendimento e solicite auxilio
+
+pergunta: Qual o horário de atendimento?
+resposta: Segunda a sexta, 8h às 18h e plantão até às 23h
+
+pergunta: como efetuar uma venda?
+resposta: abra o módulo vendas, inicie a venda no F2 selecione os produtos e quantidades, F3 para selecionar a forma de pagamento, fim
+
+pergunta: como cadastrar um produto?
+resposta: no módulo de produtos, clique em incluir, preencha os campos do produto, e na aba impostos os impostos
+
+pergunta: como cadastrar um cliente?
+resposta: no módulo clientes, clique em incluir e insira as informações do cliente
+
+pergunta: como cadastrar um fornecedor?
+resposta: no módulo fornecedor, clique em incluir, caso faça importação de notas no sistema, o fornecedor é cadastrado automaticamente
+
+pergunta: meu sistema esta pedindo liberação, o que fazer?
+resposta: ao abrir sistema ele pode informar que a liberação não foi encontrada, neste caso, clique em "LIBERAR ONLINE", caso não libere, entre em contato com o suporte
+
+pergunta: como cancelo uma NFS-e autorizada?
+resposta: notas fiscais de serviço eletrônica após autorizadas não são possíveis de cancelar pelo sistema sendo necessário acessar o site da prefeitura para verificar possibilidade de cancelamento, na dúvida, entre em contato com seu contador
+
+pergunta: qual o prazo para cancelar uma NFe?
+resposta: o prazo para cancelar uma DANFE autorizada é de 7 dias, caso esteja fora do prazo para cancelamento, busque informações com seu contador
+
+pergunta: qual o prazo para cancelar uma NFC-e?
+resposta: o prazo para cancelar uma nota fiscal do consumidor eletrônica é de 30 minutos após a emissão da mesma, após o prazo deve-se emitir uma nota de devolução, na dúvida contate nosso suporte ou seu contador
+
+pergunta: meu sistema não abre, o que fazer?
+resposta: verifique se o computador está navegando, verifique se o computador onde está o banco de dados está ligado e conectado na mesma rede, caso não resolva, reinicie o computador e tente novamente, se ainda persistir contate nosso suporte para verificação adicional
+
+pergunta: meu certificado digital venceu ou está para vencer, o que fazer?
+resposta: verifique com seu contador para emitir novo certificado, caso já o possua, baixe o arquivo em todos os computadores que emita notas e entre em contato com nosso suporte para seguir com a instalação
+
+pergunta: meu TEF parou de funcionar, o que fazer?
+resposta: desligue o PINPAD e ligue novamente, verifique sua conexão com a internet, caso não resolva, entre em contato com nosso suporte
+
+pergunta: meu PIX parou de funcionar, o que fazer?
+resposta: caso seu PIX seja no PINPAD, desligue o PINPAD e ligue novamente, verifique sua conexão com a internet, caso não resolva ou seja na tela, entre em contato com nosso suporte
+
+pergunta: 
+resposta:
+
+pergunta:
+resposta:
+
+pergunta:
+resposta:
+
+pergunta:
+resposta:
+
+pergunta:
+resposta:
+
+pergunta:
+resposta:
+
+pergunta:
+resposta:
+
+pergunta:
+resposta:
+
+pergunta:
+resposta:
+
+pergunta:
+resposta:
+
+pergunta:
+resposta:
+
+pergunta:
+resposta:
+
+pergunta:
+resposta:
+
+pergunta:
+resposta:
+
+pergunta:
+resposta:
+
+pergunta:
+resposta:
+
+pergunta:
+resposta:
+
+pergunta:
+resposta:
+
+pergunta:
+resposta:
+
+pergunta:
+resposta:
+
+
+
+
+
